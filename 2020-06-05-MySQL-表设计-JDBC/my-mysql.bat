@@ -1,0 +1,1 @@
+@java -cp "E:\code\2020火箭班\Java_code\2020-06-05-MySQL-表设计-JDBC\out\production\2020-06-05-MySQL-表设计-JDBC;E:\code\2020火箭班\Java_code\2020-06-05-MySQL-表设计-JDBC\lib\mysql-connector-java-5.1.47.jar" com.ali.MySQLClient %*
