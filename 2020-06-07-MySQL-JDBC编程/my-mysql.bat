@@ -1,0 +1,1 @@
+@ java -cp "E:\code\2020»ð¼ý°à\MySQL\2020-06-07-MySQL-JDBC±à³Ì\out\production\2020-06-07-MySQL-JDBC±à³Ì;E:\code\2020»ð¼ý°à\MySQL\2020-06-07-MySQL-JDBC±à³Ì\lib\mysql-connector-java-5.1.47.jar" com.ali.MySQLClient %*
